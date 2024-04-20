@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo App</string>
+    <string name="no_data_found">No data found.</string>
+    <string name="photo_data_base">Photo Database</string>
+</resources>
